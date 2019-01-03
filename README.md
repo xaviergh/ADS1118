@@ -1,0 +1,2 @@
+# ADS1118
+XC8 Library for the TI ADS1118 ADC
