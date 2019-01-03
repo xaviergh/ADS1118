@@ -8,12 +8,13 @@ Init the device:
 
     ads1118Init(ADS1118_AIN0_SINGLE_PGA1_CM_128SPS);
 
-Read  AIN0 in mV
+Read  AIN0 in mV:
 
     int16_t reading;
     reading =  ads1118ReadConversionmV(ADS1118_PGA_1, ADS1118_AIN0_SINGLE_PGA1_CM_128SPS);
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMzM1ODI2NSw5MDU0OTQ2NzYsLTExMD
+eyJoaXN0b3J5IjpbMTg0MTEzMDEwOSw5MDU0OTQ2NzYsLTExMD
 Y5MTE1MTddfQ==
 -->
