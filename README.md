@@ -8,6 +8,7 @@ Init the device:
     ads1118Init(ADS1118_AIN0_SINGLE_PGA1_CM_128SPS);
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Mzg4MTQ2MV19
+eyJoaXN0b3J5IjpbLTExMDY5MTE1MTddfQ==
 -->
